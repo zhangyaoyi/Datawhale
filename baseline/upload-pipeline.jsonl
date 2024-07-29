@@ -9,7 +9,7 @@
         "John",
         "None of the above"
       ],
-      "answer": "#"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_000"
@@ -25,7 +25,7 @@
         "[a, b, c, d, e]",
         "[d, e, a, b, c]"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n如果新列表是[a, b, c, d, e]，而第二个列表是[d, e]，那么第一个列表是什么？",
@@ -35,7 +35,7 @@
         "[a, b, c]",
         "[b, c]"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n当第一个列表是[a, b, c]，新的列表是[a, b, c, d, e]，那么第二个列表是什么？",
@@ -45,7 +45,7 @@
         "[c, d, e]",
         "[b, d, e]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_001"
@@ -91,7 +91,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n整数4是否能被整数3平方后且小于或等于这个数地整除？",
@@ -115,7 +115,7 @@
         "6",
         "9"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n整数8的阶乘是多少？",
@@ -125,7 +125,7 @@
         "40",
         "120"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n整数4的阶乘是多少？",
@@ -135,7 +135,7 @@
         "24",
         "36"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\n3的阶乘是否等于9？",
@@ -143,7 +143,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_004"
@@ -176,7 +176,7 @@
         "Mustard",
         "Plum"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nOrchid 和 Scarlet 是否是朋友？",
@@ -184,7 +184,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nMustard 和 Plum 是否是朋友？",
@@ -200,7 +200,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_006"
@@ -216,7 +216,7 @@
         "[c, a, b, c, b, a, e]",
         "[a, c, b, a, b, c, e]"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_007"
@@ -254,7 +254,7 @@
         "该隐，塞特",
         "塞特，亚当"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2:\n该隐是谁的叔伯？",
@@ -264,7 +264,7 @@
         "恩诺斯",
         "无"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3:\n该隐是否是恩诺斯的叔伯？",
@@ -296,7 +296,7 @@
         "Pedro: 第1、3天；Ana: 第2、5、6天；Juan: 第4天",
         "Pedro: 第1、3天；Ana: 第2、5、6天；Juan: 第4、5、6天"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n选择一种合理的工作安排方式为Juan, Pedro, 和Ana, 假设每位老师的工作天数一致。",
@@ -306,7 +306,7 @@
         "Pedro: 第1、3天；Ana: 第2、5、6天；Juan: 第4、5、6天",
         "Juan: 第1、3、4天；Pedro: 第1、3、5天；Ana: 第2、5、6天"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_010"
@@ -322,7 +322,7 @@
         "['shiori', 'mikoto', 'kureha', 'haruka']",
         "['kureha', 'shiori', 'mikoto', 'haruka']"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n谁排在第二位？",
@@ -332,7 +332,7 @@
         "kureha",
         "haruka"
       ],
-      "answer": "无"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_011"
@@ -348,7 +348,7 @@
         "Harry",
         "Julie"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n谁喜欢 Julie？",
@@ -356,7 +356,7 @@
         "John,Harry",
         "Fred,Anne"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_012"
@@ -472,7 +472,7 @@
         "tree(3, tree(2, nil, tree(1, nil, nil)), tree(4, nil, nil))",
         "tree(3, nil, tree(2, tree(1, nil, nil), tree(4, nil, tree(5, nil, nil))))"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_017"
@@ -502,7 +502,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_019"
@@ -518,7 +518,7 @@
         "Petyr",
         "Tyrion"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\nTywin 的旁边有谁坐着？",
@@ -528,7 +528,7 @@
         "Grand",
         "Tyrion"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nGrand 的旁边有谁坐着？",
@@ -538,7 +538,7 @@
         "Tywin",
         "Varys"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n如果一个人坐在 Grand 旁边，他可能是谁？",
@@ -564,7 +564,7 @@
         "43047",
         "42046721"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2:\n9的5次方是多少？",
@@ -574,7 +574,7 @@
         "59050",
         "59047"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n7的1次方是否为5？",
@@ -582,7 +582,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4:\n9的8次方是否为5？",
@@ -590,7 +590,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_021"
@@ -690,7 +690,7 @@
         "盐、水",
         "奎宁水、贝利酒"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n以下哪种混合物的总严重程度可能会引起轻微的刺激？",
@@ -700,7 +700,7 @@
         "盐、水",
         "奎宁水、贝利酒"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n以下哪种混合物的总严重程度可能会致命？",
@@ -742,7 +742,7 @@
         "David",
         "None of the above"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 2：**\nMary 爱 John 吗？",
@@ -750,7 +750,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_028"
@@ -776,7 +776,7 @@
         "房间",
         "地板"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n什么在香蕉下面？",
@@ -832,7 +832,7 @@
         "0, 1, 2, 3",
         "4, 3, 2, 1, 0"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_030"
@@ -864,7 +864,7 @@
         "约翰",
         "珍妮"
       ],
-      "answer": "*"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n谁是卡玛拉的恋人？",
@@ -910,7 +910,7 @@
         "A 是骑士，B 是骗子",
         "A 是骗子，B 是骑士"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n在情况 2 中，A 和 B 的身份分别是什么？",
@@ -920,7 +920,7 @@
         "A 是骑士，B 是骗子",
         "A 是骗子，B 是骑士"
       ],
-      "answer": "\n"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n在情况 3 中，A 和 B 的身份分别是什么？",
@@ -930,7 +930,7 @@
         "A 是骑士，B 是骗子",
         "A 是骗子，B 是骑士"
       ],
-      "answer": "\n"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n在情况 4 中，A、B 和 C 的身份分别是什么？",
@@ -940,7 +940,7 @@
         "A 是骑士，B 是骗子，C 是骑士",
         "A 是骗子，B 是骑士，C 是骑士"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_033"
@@ -955,7 +955,7 @@
         "2",
         "3"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n当初始数字为 6 时，哪个数字是可以选择的招数？",
@@ -964,7 +964,7 @@
         "2",
         "3"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n当初始数字为 9 时，选择哪个数字作为招数最合适？",
@@ -973,7 +973,7 @@
         "2",
         "3"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n当初始数字为 4 时，选择哪个数字作为招数最合适？",
@@ -982,7 +982,7 @@
         "2",
         "3"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_034"
@@ -1044,7 +1044,7 @@
         "3",
         "30"
       ],
-      "answer": "\n"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_036"
@@ -1076,7 +1076,7 @@
         "简",
         "乔治"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n简是暴力行为2的主要嫌疑人吗？",
@@ -1100,7 +1100,7 @@
         "C2=24, B1=15, R2=11, B2=11",
         "C2=26, B1=12, R2=15, B2=14"
       ],
-      "answer": "无"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_038"
@@ -1148,7 +1148,7 @@
         "Mary",
         "没有人"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n谁是Ravi的情侣？",
@@ -1158,7 +1158,7 @@
         "John",
         "没有人"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_040"
@@ -1204,7 +1204,7 @@
         "Tare",
         "Lot"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n谁是 Lot 的叔叔？",
@@ -1214,7 +1214,7 @@
         "Haran",
         "Isaac"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nMelcah 是 Haran 的叔叔吗？",
@@ -1222,7 +1222,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nNahor 是 Iscah 的叔叔吗？",
@@ -1246,7 +1246,7 @@
         "[3]",
         "[2, 3]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n函数是否可以接受参数7来生成有效的房子编号？",
@@ -1254,7 +1254,7 @@
         "是",
         "否"
       ],
-      "answer": "无"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_043"
@@ -1290,7 +1290,7 @@
         "[5, 4, 3, 2, 1]",
         "[6, 5, 4, 2, 1]"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_044"
@@ -1305,7 +1305,7 @@
         "操作 y",
         "操作 c"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n对于 (2, 5)，执行的操作是：",
@@ -1314,7 +1314,7 @@
         "操作 y",
         "操作 c"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n对于 (2, 4)，执行的操作是：",
@@ -1323,7 +1323,7 @@
         "操作 y",
         "操作 c"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n对于 (5, 7)，执行的操作是：",
@@ -1348,7 +1348,7 @@
         "[6, 5, 3, 2]",
         "[2, 5, 6, 3]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n若使用方法二反转列表 `[3,5,6,2]`，反转后的列表是什么？",
@@ -1384,7 +1384,7 @@
         "无法确定",
         "以上都不对"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_047"
@@ -1400,7 +1400,7 @@
         "Karen Eland 和 Otman Toma",
         "Natalie Irish 和 Elisabetta Rogai"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n哪三位艺术家使用半传统作画方式？",
@@ -1410,7 +1410,7 @@
         "Paolo Troilo、Judith Braun 和 Karen Eland",
         "Natalie Irish、Tarinan Fon Anhalt 和 Elisabetta Rogai"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n哪位艺术家使用传统作画方式？",
@@ -1420,7 +1420,7 @@
         "Right Artist",
         "Tarinan Fon Anhalt"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_048"
@@ -1510,7 +1510,7 @@
         "Alice",
         "Bob"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nMary是否具有传染性？",
@@ -1518,7 +1518,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_052"
@@ -1544,7 +1544,7 @@
         "Efaan",
         "Lakeram"
       ],
-      "answer": "无"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n谁讨厌Lakeram？",
@@ -1570,7 +1570,7 @@
         "车轴",
         "车筐"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 2:\n如果要移除备用轮胎，则其将被置于哪里？",
@@ -1580,7 +1580,7 @@
         "车筐",
         "平车轮"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n可能实现的\"on\"关系包括哪些？",
@@ -1590,7 +1590,7 @@
         "on(备用轮胎, 车筐)",
         "所有选项"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4:\n能否把备用轮胎放在地面上？",
@@ -1598,7 +1598,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_054"
@@ -1646,7 +1646,7 @@
         "David",
         "Wakeel"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n谁讨厌 Lakeram？",
@@ -1656,7 +1656,7 @@
         "Acquila",
         "Christopher"
       ],
-      "answer": "\n"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n谁讨厌 Efaan？",
@@ -1698,7 +1698,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n蚂蚁是食草动物吗？",
@@ -1706,7 +1706,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n野猪是食草动物吗？",
@@ -1714,7 +1714,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_057"
@@ -1730,7 +1730,7 @@
         "[you, become, responsible, for, what, you, have, did]",
         "[the, heart, must, look, with, the, eye]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_058"
@@ -1746,7 +1746,7 @@
         "b 和 c",
         "没有任何人"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n如果已知与人物 b 的关系符合特定条件，那么a的判决可能是：",
@@ -1776,7 +1776,7 @@
         "c",
         "不能确定"
       ],
-      "answer": "#"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_059"
@@ -1816,7 +1816,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n是否 Jim 比 Mike 高？",
@@ -1840,7 +1840,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_061"
@@ -1888,7 +1888,7 @@
         "给予Jones地高辛。",
         "给予Smith普雷米诺尔。"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_064"
@@ -1914,7 +1914,7 @@
         "只有通过点d",
         "只有通过点b"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：**\n\n点a可以通过直接或间接连接到点c吗？",
@@ -1980,7 +1980,7 @@
         "马",
         "兔子"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_066"
@@ -2012,7 +2012,7 @@
         "(1 + 2) * 3 - 4",
         "1 / (2 - 3 / 4)"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n考虑数字 [2, 4]，哪个选择描述了一个正确的运算结果和表达式组合？",
@@ -2110,7 +2110,7 @@
         "George",
         "Jim和George"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\nJim比Jim自己高吗？",
@@ -2118,7 +2118,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nJim比Mike高吗？",
@@ -2126,7 +2126,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\nJim比Bob高吗？",
@@ -2204,7 +2204,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_073"
@@ -2228,7 +2228,7 @@
         "是",
         "不是"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_074"
@@ -2264,7 +2264,7 @@
         "3560",
         "3840"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n给定数字列表 [1, 2, 3, 0]，它所有数字的乘积是多少？",
@@ -2290,7 +2290,7 @@
         "日本",
         "意大利"
       ],
-      "answer": "D"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_076"
@@ -2390,7 +2390,7 @@
         "s(s(s(s(s(0)))))",
         "s(s(s(s(s(s(0))))))"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n如果知道两个数相加得到 `s(s(s(s(s(0)))))`（即 5），且其中一个数是 `s(s(0))`（即 2），另一个数是多少？",
@@ -2410,7 +2410,7 @@
         "s(s(s(s(s(s(s(0)))))))",
         "s(s(s(s(s(s(s(s(0))))))))"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n判断 `s(s(0))`（即 2）是否不大于 `s(s(s(0)))`（即 3）：",
@@ -2434,7 +2434,7 @@
         "Jack",
         "以上全部"
       ],
-      "answer": "\n"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\nTom 比 Jack 高吗？",
@@ -2458,7 +2458,7 @@
         "[1, 2, 3, 4]",
         "[3, 4, 12, 7]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n生成一个列表，其中各元素数量均为6，且每个元素的值等于其数量，该列表是什么？",
@@ -2504,7 +2504,7 @@
         "List_out = [2,4,5,6,7], Min = 3",
         "List_out = [2,3,5,6,7], Min = 4"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_083"
@@ -2530,7 +2530,7 @@
         "c",
         "f"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n使用任意交通工具，是否可以从城市b到达城市d？",
@@ -2554,7 +2554,7 @@
         "第四名",
         "没有任何名次"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：**  \n第一名是否位于自己之上？",
@@ -2578,7 +2578,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_085"
@@ -2614,7 +2614,7 @@
         "Mia",
         "Vincent和Marcellus"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\nVincent爱上了谁，并且这个人也对他有感情？",
@@ -2624,7 +2624,7 @@
         "Mia",
         "Vincent和Marcellus"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_086"
@@ -2662,7 +2662,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n整数123的位数是多少？",
@@ -2672,7 +2672,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_088"
@@ -2688,7 +2688,7 @@
         "米德尔斯堡",
         "达灵顿"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_089"
@@ -2704,7 +2704,7 @@
         "[1, 2, 4, 5, 6]",
         "[6, 5, 4, 3, 2, 1]"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_090"
@@ -2720,7 +2720,7 @@
         "不确定",
         "只有在燃油管正常时才会产生火花"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_091"
@@ -2736,7 +2736,7 @@
         "6出现3次，7出现1次，2出现2次，4出现1次",
         "6出现2次，7出现2次，2出现2次，4出现1次"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_092"
@@ -2752,7 +2752,7 @@
         "1 3 5 7",
         "2 4 6"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n运行代码 `printOddNumbers(0, 4)` 时，输出是什么？",
@@ -2762,7 +2762,7 @@
         "1 3",
         "2 4"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n运行代码 `printOddNumbers(0, 1)` 时，输出是什么？",
@@ -2772,7 +2772,7 @@
         "1 3",
         "0 2"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n运行代码 `printEvenNumbers(3, 4)` 时，输出是什么？",
@@ -2798,7 +2798,7 @@
         "['s1', 's2', 's3', 's4', 's5', 's6', 's7']",
         "['s1', 's2', 's3']"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n检查元素 `s3` 是否是列表 `[s1, s2, s3, s4]` 的成员时，结果是什么？",
@@ -2808,7 +2808,7 @@
         "Error",
         "Unknown"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n将列表 `[s1, s2, s3, s4]` 反转后得到的列表是？",
@@ -2938,7 +2938,7 @@
         "[1, 4]",
         "[1, 2, 3]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n集合 [1, 2, 3] 和 [2, 3, 4] 的交集是什么？",
@@ -2948,7 +2948,7 @@
         "[1, 4]",
         "[1, 2]"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n集合 [1, 2, 3] 和 [2, 3, 4] 的补集是什么？",
@@ -2974,7 +2974,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：**\n\n对于数字4，欧拉函数值是多少？",
@@ -2984,7 +2984,7 @@
         "3",
         "4"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 3：**\n\n对于数字6，欧拉函数值是否等于6？",
@@ -3000,7 +3000,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_099"
@@ -3016,7 +3016,7 @@
         "3",
         "4"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n整队有几个人？",
@@ -3026,7 +3026,7 @@
         "6",
         "7"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n谁排在队伍的最前面？",
@@ -3046,7 +3046,7 @@
         "Ayalt",
         "Nofer"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_100"
@@ -3072,7 +3072,7 @@
         "花生",
         "以上全部"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_101"
@@ -3125,7 +3125,7 @@
         "卡门不在法国",
         "所有上述答案"
       ],
-      "answer": "C"
+      "answer": "E"
     }
   ],
   "id": "round1_test_data_103"
@@ -3151,7 +3151,7 @@
         "成功的",
         "导致错误"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_104"
@@ -3177,7 +3177,7 @@
         "Jesper, Marcio",
         "Jesper, Clement"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n谁可能是严重的冠状病毒感染？",
@@ -3213,7 +3213,7 @@
         "无法确定",
         "他们没有互相关注"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n玛丽亚和海伦是朋友吗？",
@@ -3223,7 +3223,7 @@
         "无法确定",
         "他们没有互相关注"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n卡特琳娜和她自己是朋友吗？",
@@ -3233,7 +3233,7 @@
         "无法确定",
         "她没有关注她自己"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\n乔治和约翰是朋友吗？",
@@ -3289,7 +3289,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n设有3个盘子，从编号为2的柱子移动到编号为2的柱子，并且使用编号为3的柱子作为辅助柱子，这个过程是否可以正确完成？",
@@ -3323,7 +3323,7 @@
         "[]",
         "[d, f]"
       ],
-      "answer": "B"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_109"
@@ -3355,7 +3355,7 @@
         "2",
         "3"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n数字 5 的 lg* 值是多少？",
@@ -3389,7 +3389,7 @@
         "Both A and B",
         "None of the Above"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n下面关于 Marry 的描述是否正确？",
@@ -3397,7 +3397,7 @@
         "True",
         "False"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n下面关于 Bunny 的描述是否正确？",
@@ -3405,7 +3405,7 @@
         "True",
         "False"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_112"
@@ -3459,7 +3459,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nTasha 是否嵌套在 Olga 里？",
@@ -3483,7 +3483,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_115"
@@ -3543,7 +3543,7 @@
         "c",
         "d"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n从哪个节点开始深度优先搜索能够返回原点？",
@@ -3553,7 +3553,7 @@
         "c",
         "e"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_117"
@@ -3589,7 +3589,7 @@
         "tree(leaf(1), tree(leaf(2), leaf(3)))",
         "tree(tree(leaf(1), leaf(3)), leaf(2))"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n以下哪个是二叉树`tree(tree(leaf(1), leaf(2)), leaf(4))`的镜像？",
@@ -3599,7 +3599,7 @@
         "tree(leaf(4), tree(leaf(1), leaf(2)))",
         "tree(tree(leaf(4), leaf(1)), tree(leaf(3), leaf(2)))"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_118"
@@ -3661,7 +3661,7 @@
         "4.5",
         "3.5"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：**\n学生3的最终得分是多少？",
@@ -3671,7 +3671,7 @@
         "5",
         "6"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：**\n哪位同学的最终得分是5？",
@@ -3681,7 +3681,7 @@
         "学生3",
         "学生4"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：**\n学生2如果只依赖两次部分考试和补考计算最终得分，他将获得多少分？",
@@ -3691,7 +3691,7 @@
         "3.5",
         "2.5"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_120"
@@ -3707,7 +3707,7 @@
         "b8",
         "b9"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n哪些商业实体拥有一家没有收入的公司？",
@@ -3727,7 +3727,7 @@
         "b3, b4, b5和b7",
         "b3, b5, b7, 和b4"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n商业实体b9是否拥有一家没有收入的公司？",
@@ -3751,7 +3751,7 @@
         "[1, 2, a, b, c, 3, 4]",
         "[1, a, 2, b, 3, c, 4, 5]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_122"
@@ -3851,7 +3851,7 @@
         "Imad",
         "Ali"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n谁是 Sarah 的祖父？",
@@ -3861,7 +3861,7 @@
         "Khalid",
         "Imad"
       ],
-      "answer": "B"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_127"
@@ -3877,7 +3877,7 @@
         "40",
         "45"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2:\n计算从1到6的所有整数之和。答案是多少？",
@@ -3929,7 +3929,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：**\n数字 363 是回文数吗？",
@@ -4055,7 +4055,7 @@
         "Patty",
         "Mona"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_133"
@@ -4071,7 +4071,7 @@
         "['mosque', 'studCenter', 'blockB', 'library']",
         "['mosque', 'blockA', 'blockB', 'library']"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_134"
@@ -4140,7 +4140,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nMia 是否通过了人工智能课程？",
@@ -4226,7 +4226,7 @@
         "Zhang 和 North",
         "Jack 和 North"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\nNorth 是罪犯吗？",
@@ -4242,7 +4242,7 @@
         "是",
         "不是"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nJack 是罪犯吗？",
@@ -4264,7 +4264,7 @@
         "角色1",
         "角色2"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nGenadiy适合哪个角色？",
@@ -4272,7 +4272,7 @@
         "角色1",
         "角色2"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_140"
@@ -4302,7 +4302,7 @@
         "是",
         "否"
       ],
-      "answer": "#"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nCMSC471 是否为自身的先修课？",
@@ -4358,7 +4358,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_144"
@@ -4380,7 +4380,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n马是否比狗大？",
@@ -4396,7 +4396,7 @@
         "是",
         "否"
       ],
-      "answer": "无"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_145"
@@ -4412,7 +4412,7 @@
         "36",
         "45"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n计算第 5 个三角形数。结果是多少？",
@@ -4422,7 +4422,7 @@
         "20",
         "25"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n计算第 8 个三角形数。结果是多少？",
@@ -4432,7 +4432,7 @@
         "36",
         "45"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n计算第 3 个三角形数。结果是多少？",
@@ -4442,7 +4442,7 @@
         "6",
         "9"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_146"
@@ -4468,7 +4468,7 @@
         "100",
         "101"
       ],
-      "answer": "D"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_147"
@@ -4498,7 +4498,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n如果债务比是4，成长率是7，这属于一个适宜投资的案例吗？",
@@ -4522,7 +4522,7 @@
         "4",
         "5"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n列表 [6,7,8,9,10] 中有多少个奇数？",
@@ -4558,7 +4558,7 @@
         "c",
         "d"
       ],
-      "answer": "无"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n在图中，以下哪些节点是叶子节点？",
@@ -4568,7 +4568,7 @@
         "c, k, l",
         "d, k, l"
       ],
-      "answer": "无"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\n节点k是根节点吗？",
@@ -4576,7 +4576,7 @@
         "是",
         "不是"
       ],
-      "answer": "无"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_150"
@@ -4610,7 +4610,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n6 的阶乘 (6!) 等于 4 吗？",
@@ -4618,7 +4618,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_151"
@@ -4664,7 +4664,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4:\n数字 2 的累加和是否为 6？",
@@ -4698,7 +4698,7 @@
         "720",
         "5040"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n对于给定的函数 \\(fact(3, X)\\)，结果是多少？",
@@ -4708,7 +4708,7 @@
         "120",
         "720"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n对于给定的函数 \\(k(3, X)\\)，结果是多少？",
@@ -4718,7 +4718,7 @@
         "0.24",
         "0.36"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_154"
@@ -4744,7 +4744,7 @@
         "第三张桌子",
         "任意一张桌子"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n大理石金字塔应该放在哪张桌子上？",
@@ -4770,7 +4770,7 @@
         "只有一个解",
         "没有任何解"
       ],
-      "answer": "\n"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_156"
@@ -4814,7 +4814,7 @@
         "5",
         "6"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_159"
@@ -4838,7 +4838,7 @@
         "Paul",
         "Felix"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n谁是 C++ 程序员？",
@@ -4847,7 +4847,7 @@
         "Paul",
         "Felix"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nEmil 使用的是以下哪种编程语言？",
@@ -4856,7 +4856,7 @@
         "Java",
         "Python"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_160"
@@ -4872,7 +4872,7 @@
         "所有肉食动物都吃肉",
         "没有肉食动物会产奶"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n哪种动物是肉食的且毛色棕黄，有条纹但没有羽毛？",
@@ -4882,7 +4882,7 @@
         "老虎",
         "棕色猫头鹰"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n判断是否肉食动物？",
@@ -4916,7 +4916,7 @@
         "程序员、文学翻译专家",
         "都不是"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_162"
@@ -4990,7 +4990,7 @@
         "[1, 3, 2, 4, 5]",
         "[1, 2, 3, 2, 4, 5]"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n给定列表 [1, 2, 4, 9]，最后一个元素是什么？",
@@ -5016,7 +5016,7 @@
         "[two, three, one]",
         "[one, two, four]"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n将罗马尼亚语列表 [unu, trei, trei, sapte] 翻译为英语的结果是什么？",
@@ -5026,7 +5026,7 @@
         "[one, four, four, seven]",
         "[three, three, one, eight]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_166"
@@ -5042,7 +5042,7 @@
         "[1, 4, 6, 7, 2, 3, 6, 8, 8, 6, 3, 2]",
         "[1, 4, 6, 7, 2, 2, 8, 6, 3, 8, 6, 3]"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_167"
@@ -5058,7 +5058,7 @@
         "丽贝卡",
         "杰克，玛丽，丽贝卡"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n以下哪些人是女巫？",
@@ -5086,7 +5086,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_168"
@@ -5112,7 +5112,7 @@
         "天花板",
         "地板"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n谁能够到达香蕉？",
@@ -5130,7 +5130,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_169"
@@ -5156,7 +5156,7 @@
         "-1",
         "1"
       ],
-      "answer": "不"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n当 X = 1 时，公式计算出的 Z 的值是多少？",
@@ -5166,7 +5166,7 @@
         "-8",
         "8"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n当 X = 3 且 Y = 3 时，公式是否计算正确？",
@@ -5176,7 +5176,7 @@
         "不确定",
         "计算结果为 0"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_170"
@@ -5234,7 +5234,7 @@
         "Mrs. Bradley",
         "Madame Anne"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n以下哪些人有不在现场的证据？",
@@ -5244,7 +5244,7 @@
         "Professor Anderson, Madame Anne",
         "Reverend John, Colonel Strauss, Madame Anne"
       ],
-      "answer": "B"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_172"
@@ -5300,7 +5300,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_174"
@@ -5316,7 +5316,7 @@
         "Winona",
         "Anton"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_175"
@@ -5332,7 +5332,7 @@
         "羊、青蛙、鸽子",
         "Pitbull、John、Mark"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\nMark 属于以下哪一类？",
@@ -5342,7 +5342,7 @@
         "动物",
         "以上皆是"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nPitbull 属于以下哪一类？",
@@ -5362,7 +5362,7 @@
         "动物",
         "以上皆是"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_176"
@@ -5404,7 +5404,7 @@
         "[1, 5, 3, 4, 2]",
         "[2, 1, 5, 3, 4]"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2:**\n\n假设有一个列表 `[a, b, c, d, e, f, g, h]`，向左旋转 3 位的结果是不是 `[d, e, f, g, h, a, b, c]`?",
@@ -5420,7 +5420,7 @@
         "是",
         "不是"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_178"
@@ -5480,7 +5480,7 @@
         "可以",
         "不可以"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n将4个磁盘从辅助位置移动到辅助位置，是否可以成功，如果目标位置被用作辅助？",
@@ -5488,7 +5488,7 @@
         "可以",
         "不可以"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n将4个磁盘从目标位置移动到辅助位置，是否可以成功，如果目标位置被重复用作辅助？",
@@ -5496,7 +5496,7 @@
         "可以",
         "不可以"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n将4个磁盘从辅助位置移动到目标位置，是否可以成功，如果目标位置被重复用作辅助？",
@@ -5536,7 +5536,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：**\n诗歌课程是否在拥有10个实验室的领域中？",
@@ -5544,7 +5544,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_183"
@@ -5570,7 +5570,7 @@
         "declaration（声明）",
         "screed（长篇大论）"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nJoe 是否会说 Greeting（问候）？",
@@ -5586,7 +5586,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_184"
@@ -5602,7 +5602,7 @@
         "s(s(s(s(s(s(s(zero)))))))",
         "s(s(s(s(s(s(zero))))))"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_185"
@@ -5632,7 +5632,7 @@
         "从萨尔布吕肯乘火车到梅斯，再从梅斯乘火车到新加坡",
         "从萨尔布吕肯乘飞机直接到新加坡"
       ],
-      "answer": "无"
+      "answer": "B"
     },
     {
       "question": "选择题 2:\n是否可以从汉密尔顿通过一次或多次中转到达汉密尔顿本身？",
@@ -5642,7 +5642,7 @@
         "仅在飞机可用时",
         "取决于车辆"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n是否可以从法兰克福通过一次或多次中转到达汉密尔顿？",
@@ -5652,7 +5652,7 @@
         "仅当火车可用时",
         "取决于道路状况"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_187"
@@ -5750,7 +5750,7 @@
         "[k, j, e, b, a]",
         "[k, i, e, b, a]"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n从位置 c 出发，最短的路径通往目标位置k是什么？",
@@ -5760,7 +5760,7 @@
         "[k, f, g, c]",
         "[k, h, d, b, c]"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n从位置 f 出发，最短的路径通往目标位置k是什么？",
@@ -5770,7 +5770,7 @@
         "[k, f]",
         "[k, g, c, f]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n从位置 k 出发，最短的路径通往目标位置k是什么？",
@@ -5780,7 +5780,7 @@
         "[k, c]",
         "[k, a]"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_190"
@@ -5796,7 +5796,7 @@
         "更大或等于基准值的列表： [8, 4]；小于基准值的列表： [-6, -2, -3]",
         "更大或等于基准值的列表： [8, 4, 1]；小于基准值的列表： [-6, -2, -3]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_191"
@@ -5812,7 +5812,7 @@
         "2",
         "3"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n析构函数 m2 的参数是什么？",
@@ -5886,7 +5886,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n盘子b是否放置在盘子c之上？",
@@ -5894,7 +5894,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_194"
@@ -5916,7 +5916,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n数字8是奇数或者是0到9之间的数吗？",
@@ -5924,7 +5924,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4:\n数字9是奇数且是0到9之间的数吗？",
@@ -5948,7 +5948,7 @@
         "362880",
         "120"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_196"
@@ -5964,7 +5964,7 @@
         "[3, 4, 5, 3]",
         "[4, 5, 1, 4]"
       ],
-      "answer": "\n"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_197"
@@ -5980,7 +5980,7 @@
         "天花板",
         "房间"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n谁可以到达香蕉？",
@@ -6000,7 +6000,7 @@
         "香蕉",
         "天花板"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n香蕉下面是什么？",
@@ -6010,7 +6010,7 @@
         "猴子",
         "天花板"
       ],
-      "answer": "小"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_198"
@@ -6026,7 +6026,7 @@
         "8",
         "7"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n计算数 6 的阶乘 (即 1 x 2 x 3 x 4 x 5 x 6 ) 的结果是多少？",
@@ -6036,7 +6036,7 @@
         "360",
         "504"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n计算数 8 的阶乘 (即 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8 ) 的结果是多少？",
@@ -6046,7 +6046,7 @@
         "60480",
         "80640"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n如果比较数 0, 8, 3 和 7，其中的最大值是？",
@@ -6054,7 +6054,7 @@
         "True",
         "False"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_199"
@@ -6110,7 +6110,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\nOlga里面是否有Helga？",
@@ -6118,7 +6118,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nOlga里面是否有Olga？",
@@ -6126,7 +6126,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nHelga里面是否有Katrina？",
@@ -6134,7 +6134,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_201"
@@ -6150,7 +6150,7 @@
         "彼得的妻子",
         "斯特凡"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_202"
@@ -6166,7 +6166,7 @@
         "星期五",
         "星期一"
       ],
-      "answer": "*"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n星期一是否为狮子和独角兽昨天或今天都说过谎，并且在另一天说实话的一天？",
@@ -6174,7 +6174,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n星期日是否为狮子和独角兽昨天或今天都说过谎，并且在另一天说实话的一天？",
@@ -6190,7 +6190,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_203"
@@ -6248,7 +6248,7 @@
         "2",
         "3"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n当 6 除以 2，结果是多少？",
@@ -6258,7 +6258,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n用整数除法计算 6 除以 6，期望的结果是否可能是 7？",
@@ -6266,7 +6266,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n计算 6 除以 2，期望的结果是否可能是 1？",
@@ -6274,7 +6274,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_206"
@@ -6310,7 +6310,7 @@
         "3",
         "9"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n3 和 6 的最小公倍数是 1。这种说法：",
@@ -6320,7 +6320,7 @@
         "不确定",
         "以上都不对"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_207"
@@ -6374,7 +6374,7 @@
         "16",
         "12"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n次大的数字是什么？",
@@ -6384,7 +6384,7 @@
         "16",
         "12"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n数字10是最大的数字吗？",
@@ -6442,7 +6442,7 @@
         "伊丽莎白一世",
         "所有上述选项"
       ],
-      "answer": "\n"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_211"
@@ -6458,7 +6458,7 @@
         "2",
         "3"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_212"
@@ -6480,7 +6480,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n从节点a到节点d是否有路径？",
@@ -6496,7 +6496,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_213"
@@ -6571,7 +6571,7 @@
         "[1, 'a', 2, 'j', 3, '!', 4]",
         "[1, 'j', 2, '!', 3, 'a', 4]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n给定字符序列[j,a,j,a,!]，自动机的状态转换路径是？",
@@ -6581,7 +6581,7 @@
         "[1, 'a', 2, 'j', 1, 'a', 2, 'j', 3, '!', 4]",
         "[1, 'j', 2, 'a', 3, 'j', 1, 'a', 4, '!']"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n给定字符序列[j,a,j,a,j,a,!]，自动机的状态转换路径是？",
@@ -6591,7 +6591,7 @@
         "[1, 'a', 2, 'j', 1, 'a', 2, 'j', 1, 'a', 2, '!', 4]",
         "[1, 'j', 2, 'a', 3, 'j', 1, '!', 2, 'a', 4]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_216"
@@ -6631,7 +6631,7 @@
         "m3",
         "m5"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\nm2 是运动员吗？",
@@ -6639,7 +6639,7 @@
         "是",
         "否"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nm4 是运动员吗？",
@@ -6647,7 +6647,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_218"
@@ -6661,7 +6661,7 @@
         "能",
         "不能"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n在给定关系的传递性闭包中，f 是否能够关联到 b？",
@@ -6669,7 +6669,7 @@
         "能",
         "不能"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n在给定关系的传递性闭包中，b 是否能够关联到 g？",
@@ -6685,7 +6685,7 @@
         "能",
         "不能"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_219"
@@ -6739,7 +6739,7 @@
         "椅子",
         "地板"
       ],
-      "answer": "#"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n香蕉在什么东西上面？",
@@ -6749,7 +6749,7 @@
         "地板",
         "橱柜"
       ],
-      "answer": "\n"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n猴子可以拿到什么东西？",
@@ -6759,7 +6759,7 @@
         "地板",
         "橱柜"
       ],
-      "answer": "#"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n谁可以拿到香蕉？",
@@ -6769,7 +6769,7 @@
         "椅子",
         "地板"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_221"
@@ -6785,7 +6785,7 @@
         "Daniel, Anne",
         "John, James"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：**\n哪些人是John的朋友？",
@@ -6795,7 +6795,7 @@
         "Jim, Daniel",
         "Anne, Julia"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：**\nJane对谁产生了好感？",
@@ -6805,7 +6805,7 @@
         "Jim",
         "Albert"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 4：**\nJane和Sylvia是否是朋友？",
@@ -6813,7 +6813,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_222"
@@ -6845,7 +6845,7 @@
         "石头",
         "纸张"
       ],
-      "answer": "\n"
+      "answer": "B"
     },
     {
       "question": "选择题 2：**\n\n什么东西会燃烧？",
@@ -6875,7 +6875,7 @@
         "不确定",
         "无法判断"
       ],
-      "answer": "D"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_224"
@@ -6891,7 +6891,7 @@
         "Jack",
         "Boy"
       ],
-      "answer": "#"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\nTom 认识 Dang 吗？",
@@ -6993,7 +6993,7 @@
         "Arpita",
         "Simi和Arpita"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nArpita是哪个男性的姑姑？",
@@ -7003,7 +7003,7 @@
         "Manish",
         "Anand"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n谁是Manvi的叔叔？",
@@ -7013,7 +7013,7 @@
         "Manish",
         "Aarush"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nShrey是哪个成员的叔叔？",
@@ -7023,7 +7023,7 @@
         "Simi",
         "Manish"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_228"
@@ -7107,7 +7107,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_231"
@@ -7121,7 +7121,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nAline是Emma的祖先吗？",
@@ -7243,7 +7243,7 @@
         "81",
         "97"
       ],
-      "answer": "A"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_235"
@@ -7257,7 +7257,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3:\n给定列表[1,2,3,4]，判断[2,4,6]是否为该列表的子集。[2,4,6]是[1,2,3,4]的子集吗？",
@@ -7315,7 +7315,7 @@
         "三明治",
         "面条"
       ],
-      "answer": "#"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n与披萨一起构成特别餐的甜点可能有哪些？",
@@ -7365,7 +7365,7 @@
         "7",
         "8"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n如果有一个数N为8，那么1至N的总和R是多少？",
@@ -7375,7 +7375,7 @@
         "36",
         "40"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n如果令N为3，预期的总和R为7，这个说法是否正确？",
@@ -7483,7 +7483,7 @@
         "打印1次数字0，然后返回False",
         "直接返回True"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n输入8时，程序的输出是什么？",
@@ -7493,7 +7493,7 @@
         "直接返回False",
         "打印从8到0的数字，然后返回False"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n输入5时，程序的输出是什么？",
@@ -7513,7 +7513,7 @@
         "直接返回False",
         "打印从3到0的数字，然后返回False"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_244"
@@ -7559,7 +7559,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_246"
@@ -7591,7 +7591,7 @@
         "9",
         "无法确定"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n给出数值 0, 1, 和 1，如果说最大的数是 9，那么这是真的吗？",
@@ -7631,7 +7631,7 @@
         "塔",
         "无"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n哪个棋子威胁到位置 (5, 5)？",
@@ -7652,7 +7652,7 @@
         "主教和塔",
         "皇后和塔"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\n哪个棋子威胁到位置 (8, 8)？",
@@ -7662,7 +7662,7 @@
         "塔",
         "无"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_249"
@@ -7678,7 +7678,7 @@
         "120",
         "720"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n9的阶乘是多少？",
@@ -7698,7 +7698,7 @@
         "362880",
         "5040"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n6的阶乘是否等于5？",
@@ -7760,7 +7760,7 @@
         "3",
         "0"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n如果我们输入2和7，这个函数会返回什么结果？",
@@ -7770,7 +7770,7 @@
         "14",
         "15"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n如果我们输入0和7，这个函数会返回什么结果？",
@@ -7788,7 +7788,7 @@
         "False",
         "True"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_252"
@@ -7820,7 +7820,7 @@
         "330",
         "150"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_254"
@@ -7836,7 +7836,7 @@
         "west",
         "america"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n卖武器给敌对国家的行为是否是犯罪行为？",
@@ -7862,7 +7862,7 @@
         "无法判断",
         "无法计算"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n当 X = 6 且 Y = 6 时，`f_1(6, 6)` 的结果是 5。该陈述：",
@@ -7872,7 +7872,7 @@
         "无法判断",
         "无法计算"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n当 X = 0 且 Y = 4 时，`f_1(0, 4)` 的结果是 2。该陈述：",
@@ -7882,7 +7882,7 @@
         "无法判断",
         "无法计算"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n当 X = 4 且 Y = 9 时，`f_1(4, 9)` 的结果是 5。该陈述：",
@@ -7892,7 +7892,7 @@
         "无法判断",
         "无法计算"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_256"
@@ -7968,7 +7968,7 @@
         "8, 2, 1, 我会退出",
         "8, 1, 我会退出"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n输入数字 3 时，数字序列的最终输出是什么？",
@@ -7994,7 +7994,7 @@
         "36",
         "27"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n计算3和3的最小公倍数。",
@@ -8004,7 +8004,7 @@
         "9",
         "1"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n计算1和9的最小公倍数。",
@@ -8014,7 +8014,7 @@
         "18",
         "27"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n计算4和7的最大公约数。",
@@ -8040,7 +8040,7 @@
         "[1, 2]",
         "[4, 1, 2]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n对于列表 [1, 4, 1, 2, 3]，它的最后一个元素是什么？",
@@ -8132,7 +8132,7 @@
         "[3, 4, 5, 6, 7, 8, 9]",
         "[2, 4, 6, 8, 10, 12, 14]"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n若N为8，则生成的列表可以是什么？",
@@ -8158,7 +8158,7 @@
         "布拉姆舍",
         "奥斯纳和布拉姆舍"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_265"
@@ -8172,7 +8172,7 @@
         "是",
         "否"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n火鸡是否有一条腿？",
@@ -8180,7 +8180,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n阿尔伯特有几条腿？",
@@ -8197,7 +8197,7 @@
         "能",
         "不能"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_266"
@@ -8233,7 +8233,7 @@
         "['g', 'f', 'b']",
         "['g', 'x', 'd']"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n从节点 d 开始，一条可能的最低成本路径到节点 g 是？",
@@ -8243,7 +8243,7 @@
         "['g', 'e']",
         "['g', 'f']"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_267"
@@ -8259,7 +8259,7 @@
         "Jaap",
         "Jeroen"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n谁比Jan年纪小？",
@@ -8269,7 +8269,7 @@
         "Joris",
         "Jelle"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nJaap是否比Jelle年纪大？",
@@ -8381,7 +8381,7 @@
         "健美运动员",
         "踢拳手"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nJames 是否是综合格斗运动员？",
@@ -8403,7 +8403,7 @@
         "是的",
         "不是"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n谁会吃威士卡猫粮？",
@@ -8495,7 +8495,7 @@
         "15",
         "20"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n如果给定`N`等于8，那么从1到8的所有自然数之和等于0吗？",
@@ -8503,7 +8503,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n如果给定`N`等于8，那么从1到8的所有自然数之和等于5吗？",
@@ -8511,7 +8511,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n如果给定`N`等于8，那么从1到8的所有自然数之和等于3吗？",
@@ -8519,7 +8519,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_275"
@@ -8534,7 +8534,7 @@
         "城市 CD",
         "城市 DR"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n哪些城市可以直接或间接到达城市 B？",
@@ -8552,7 +8552,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n城市 Q 可以到达城市 D 吗？",
@@ -8590,7 +8590,7 @@
         "['a', 'c', 'd']",
         "['a', 'b', 'd']"
       ],
-      "answer": "#"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_278"
@@ -8606,7 +8606,7 @@
         "马",
         "以上所有"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n驴比驴大吗？",
@@ -8614,7 +8614,7 @@
         "是",
         "不是"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n马比猴子大吗？",
@@ -8793,7 +8793,7 @@
         "查尔斯, 菲利普, 戴安娜",
         "菲利普,乔治"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n提到的人物中戴安娜的后裔有几个？",
@@ -8803,7 +8803,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n威廉是戴安娜的祖先吗？",
@@ -8819,7 +8819,7 @@
         "是",
         "不是"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_285"
@@ -8835,7 +8835,7 @@
         "2",
         "3"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n在范围 0 到 0 内，符合条件的数字个数是 6 吗？",
@@ -8873,7 +8873,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_288"
@@ -8899,7 +8899,7 @@
         "你玩这个多久了？",
         "哈喽，你怎么样？"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_289"
@@ -8923,7 +8923,7 @@
         "真",
         "假"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n fact(2, 1)是真是假？",
@@ -8931,7 +8931,7 @@
         "真",
         "假"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n fact(2, 3)是真是假？",
@@ -8939,7 +8939,7 @@
         "真",
         "假"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_290"
@@ -8955,7 +8955,7 @@
         "c",
         "j"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n哪个节点可以通过一步或多步路径到达节点h？",
@@ -8997,7 +8997,7 @@
         "7",
         "8"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n当 N=7 时，lgstar(N) 计算的结果是多少？",
@@ -9007,7 +9007,7 @@
         "4",
         "5"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n当 N=8 时，lgstar(N) 计算的结果是多少？",
@@ -9017,7 +9017,7 @@
         "4",
         "5"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n当 N=3 时，lgstar(N) 计算的结果是多少？",
@@ -9027,7 +9027,7 @@
         "3",
         "4"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_292"
@@ -9043,7 +9043,7 @@
         "t(3, t(1, nil, nil), t(4, nil, t(2, t(5, nil, nil), nil)))",
         "t(3, t(2, nil, t(1, nil, nil)), t(4, t(5, nil, nil), nil))"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2:\n在上述二叉树中，共有多少个叶子节点？",
@@ -9053,7 +9053,7 @@
         "4",
         "1"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3:\n在上述二叉树中，不包括叶子节点的节点数量是多少？",
@@ -9063,7 +9063,7 @@
         "2",
         "3"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_293"
@@ -9079,7 +9079,7 @@
         "[5, 4, 3, 2, 1]",
         "[2, 3, 4, 5, 1]"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n以下哪组数字正确表示Eva、Don、Cam、Ben和Ali的面试时间？",
@@ -9090,7 +9090,7 @@
         "[5, 2, 1, 4, 3]",
         "[5, 2, 1, 3, 4]"
       ],
-      "answer": "\n"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_294"
@@ -9162,7 +9162,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n最小的兄弟是否管理黄色的房子？",
@@ -9186,7 +9186,7 @@
         "12",
         "14"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n一个数字 9 的每位数字的总和是多少？",
@@ -9196,7 +9196,7 @@
         "8",
         "9"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n给定数字 2，从 1 到这个数字的所有整数的和为 0，这个说法是否正确？",
@@ -9204,7 +9204,7 @@
         "是",
         "不是"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n给定数字 2，从 1 到这个数字的所有整数的和为 8，这个说法是否正确？",
@@ -9212,7 +9212,7 @@
         "是",
         "不是"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_297"
@@ -9252,7 +9252,7 @@
         "区域 e",
         "区域 f"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 3:\n与区域 a 相同颜色和纹理并且相邻的区有哪些？",
@@ -9262,7 +9262,7 @@
         "区域 b 和 e",
         "仅区域 e"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 4:\n与区域 d 拥有相同颜色和纹理并相邻的区域是哪一个？",
@@ -9288,7 +9288,7 @@
         "4",
         "6"
       ],
-      "answer": "*"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_300"
@@ -9324,7 +9324,7 @@
         "Chennai 是 Telangana 的首都，主要语言是 Telugu。",
         "Chennai 是 Tamilnadu 的首都，主要语言是 Tamil。"
       ],
-      "answer": "\n"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n关于 Bangalore 的描述正确的是？",
@@ -9334,7 +9334,7 @@
         "Bangalore 是 Telangana 的首都，主要语言是 Telugu。",
         "Bangalore 是 Tamilnadu 的首都，主要语言是 Tamil。"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_301"
@@ -9350,7 +9350,7 @@
         "Arad -> Timisoara -> Fagaras",
         "Arad -> Sibiu -> Oradea -> Fagaras"
       ],
-      "answer": "B"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_302"
@@ -9366,7 +9366,7 @@
         "Colonel Mustard",
         "Ms. Green"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n谁可能是 Plum 谋杀的人？",
@@ -9376,7 +9376,7 @@
         "Colonel Mustard",
         "Mr. Boddy"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_303"
@@ -9432,7 +9432,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_305"
@@ -9490,7 +9490,7 @@
         "[8, 2, 7, 4, 5, 9]",
         "[2, 7, 1, 4, 5, 8, 9]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_308"
@@ -9506,7 +9506,7 @@
         "日本",
         "法国"
       ],
-      "answer": "无"
+      "answer": "C"
     },
     {
       "question": "选择题 2:\n房子的居住配置是如何排列的？",
@@ -9516,7 +9516,7 @@
         "[日本人养斑马的绿色房子, 西班牙人养美洲豹的红色房子, 英国人养蝸牛的蓝色房子]",
         "[西班牙人养美洲豹的绿色房子, 日本人养斑马的蓝色房子, 英国人养蝸牛的红色房子]"
       ],
-      "answer": "\n"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_309"
@@ -9532,7 +9532,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n从城市B到城市A的路径是什么？",
@@ -9542,7 +9542,7 @@
         "['b', 'c', 'a']",
         "['b', 'd', 'a']"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n从城市F到城市A的路径有哪些？",
@@ -9552,7 +9552,7 @@
         "['f', 'e', 'c', 'b', 'a']",
         "以上皆是"
       ],
-      "answer": "#"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n从城市E到城市G有多少条不同的路径？",
@@ -9562,7 +9562,7 @@
         "3",
         "4"
       ],
-      "answer": "B"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_310"
@@ -9593,7 +9593,7 @@
         "获取钥匙 -> 打开文件柜 -> 解锁文件柜 -> 获取文件",
         "获取文件 -> 获取钥匙 -> 打开文件柜 -> 解锁文件柜"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_312"
@@ -9609,7 +9609,7 @@
         "Cucumber",
         "所有上述选项"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n以下哪个是生物体？",
@@ -9619,7 +9619,7 @@
         "Stone",
         "Air"
       ],
-      "answer": "#"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n以下命题是否正确：黄瓜是一种生物体。",
@@ -9651,7 +9651,7 @@
         "a -> b -> e -> j, a -> c -> f",
         "a -> c -> g, a -> c -> f"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_314"
@@ -9667,7 +9667,7 @@
         "a, b, e, f",
         "c, d, g, h"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n在第 4 列的黑色格子有哪些？",
@@ -9677,7 +9677,7 @@
         "a, b, e, f",
         "c, d, g, h"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n在第 5 列的黑色格子有哪些？",
@@ -9687,7 +9687,7 @@
         "a, b, e, f",
         "c, d, g, h"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n在第 5 列的白色格子有哪些？",
@@ -9713,7 +9713,7 @@
         "[a, d, e, h]",
         "[a, d, e, g, h]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_316"
@@ -9729,7 +9729,7 @@
         "Nick",
         "Maria"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n与John是同性朋友的人有谁？",
@@ -9759,7 +9759,7 @@
         "Nick",
         "John"
       ],
-      "answer": "D"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_317"
@@ -9775,7 +9775,7 @@
         "1",
         "4"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n计算两个数 2 和 4 的最大公约数是多少？",
@@ -9785,7 +9785,7 @@
         "3",
         "4"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n计算两个数 7 和 9 的最大公约数是多少？",
@@ -9811,7 +9811,7 @@
         "ham_cheese, hamburger, hoagie",
         "ham_cheese, pbj, hamburger, hoagie"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n汉堡三明治的总分是否大于1？",
@@ -9861,7 +9861,7 @@
         "Ratatat",
         "Fido"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n哪种动物是狗？",
@@ -9881,7 +9881,7 @@
         "Fido",
         "Ratatat"
       ],
-      "answer": "A"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_320"
@@ -9897,7 +9897,7 @@
         "厨房出现问题",
         "漏水"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n这种情况下，可以判断哪项结论为正确？",
@@ -9907,7 +9907,7 @@
         "浴室湿了",
         "窗户开了"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_321"
@@ -9923,7 +9923,7 @@
         "Mona",
         "Herb"
       ],
-      "answer": "无"
+      "answer": "B"
     },
     {
       "question": "选择题 2:\nAbraham 是 Marge 的祖父吗？",
@@ -9931,7 +9931,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\nClancy 是 Abraham 的祖父吗？",
@@ -9947,7 +9947,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_322"
@@ -9981,7 +9981,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_323"
@@ -10053,7 +10053,7 @@
         "40500.0",
         "12000.0"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nJoey 的净工资是多少？",
@@ -10063,7 +10063,7 @@
         "40500.0",
         "20250.0"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nRodel 的净工资是多少？",
@@ -10073,7 +10073,7 @@
         "24000.0",
         "18900.0"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nJoey 的应纳税额是否是 5？",
@@ -10081,7 +10081,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_326"
@@ -10111,7 +10111,7 @@
         "类别3",
         "类别4"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n哪支球队赢得了恰好一场比赛？",
@@ -10121,7 +10121,7 @@
         "MI",
         "SRH"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nRCB属于哪一类别？",
@@ -10131,7 +10131,7 @@
         "类别3",
         "类别4"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nKKR属于哪一类别？",
@@ -10141,7 +10141,7 @@
         "类别3",
         "类别4"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_328"
@@ -10155,7 +10155,7 @@
         "正确",
         "错误"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：**\n在上面给定的矩阵中，判断以下陈述是否正确：单元格(4,2), (2,4), (4,1), 和(1,4)的值都相同，并且它们互为对称。",
@@ -10163,7 +10163,7 @@
         "正确",
         "错误"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_329"
@@ -10179,7 +10179,7 @@
         "Antonio",
         "David"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\nDavid和Pedro是表兄弟吗？",
@@ -10187,7 +10187,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nDami和Pedro是表兄弟吗？",
@@ -10195,7 +10195,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\nJoelson和David是表兄弟吗？",
@@ -10203,7 +10203,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_330"
@@ -10219,7 +10219,7 @@
         "节点 4 的左子树是节点 2，右子树是叶子 5；节点 2 的左子树是叶子 3，右子树是叶子 1。",
         "节点 4 的左子树是节点 5，右子树是叶子 2；节点 5 的左子树是叶子 1，右子树是叶子 3。"
       ],
-      "answer": "A"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_331"
@@ -10303,7 +10303,7 @@
         "John",
         "以上全是"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\nLucy 和谁一定有纷争？",
@@ -10313,7 +10313,7 @@
         "Kevin",
         "Ruby"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_334"
@@ -10339,7 +10339,7 @@
         "John",
         "Peter"
       ],
-      "answer": "A"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_335"
@@ -10371,7 +10371,7 @@
         "c",
         "d"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_337"
@@ -10387,7 +10387,7 @@
         "1",
         "5"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n求6和1的最大公约数是多少？",
@@ -10397,7 +10397,7 @@
         "5",
         "6"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n求6和2的最大公约数是多少？",
@@ -10407,7 +10407,7 @@
         "2",
         "5"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n求1和7的最大公约数是多少？",
@@ -10433,7 +10433,7 @@
         "2",
         "3"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n函数 `pow3(3, y)` 返回的值 `y` 可能为 3 吗？",
@@ -10457,7 +10457,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_339"
@@ -10489,7 +10489,7 @@
         "[12, 9, 7, 4, 2, 1]",
         "[1, 2, 7, 4, 9, 12]"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n将基准为 4 的列表 [1, 2, 2, 9, 12] 分割成“左列表”和“右列表”后，结果是什么？",
@@ -10515,7 +10515,7 @@
         "30",
         "40"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n计算从 1 到 9 的所有自然数的平方和是多少？",
@@ -10563,7 +10563,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_344"
@@ -10579,7 +10579,7 @@
         "程序将只打印列表中的数字元素。",
         "列表中的元素将逐行打印，但程序返回 False。"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_345"
@@ -10605,7 +10605,7 @@
         "[3, 4]",
         "[2, 1, 4, 3]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n假设合并后的新列表为 [1,2,3,4]，原列表 [1,2] 和哪个列表合并的？",
@@ -10641,7 +10641,7 @@
         "Tom",
         "以上"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\nTom 和 Jim 是朋友吗？",
@@ -10657,7 +10657,7 @@
         "是",
         "不是"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\nPam 是 Pat 的朋友吗？",
@@ -10681,7 +10681,7 @@
         "5",
         "6"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n这棵二叉树的深度是多少？（深度是从根节点到最远的叶子节点的最长路径上的节点数。）",
@@ -10705,7 +10705,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_349"
@@ -10719,7 +10719,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n从 a 点是否可以直接或间接到达 d 点？",
@@ -10743,7 +10743,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_350"
@@ -10769,7 +10769,7 @@
         "362880",
         "720"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n9的阶乘是多少？",
@@ -10779,7 +10779,7 @@
         "720",
         "5040"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_351"
@@ -10795,7 +10795,7 @@
         "Sheetal",
         "Sandeep"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n谁是Aryan的阿姨？",
@@ -10805,7 +10805,7 @@
         "Archna",
         "Sandeep"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nShiv是谁的表亲？",
@@ -10815,7 +10815,7 @@
         "Tanvee",
         "Sheetal"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\nArchna是Shiv的叔叔吗？",
@@ -10823,7 +10823,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_352"
@@ -10839,7 +10839,7 @@
         "b1, b2, b6",
         "b1, b3, b6"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n如果b9公司被认定必须没收所有相关资金，那么以下哪些金额是可能被没收的?",
@@ -10849,7 +10849,7 @@
         "20, 40, 110",
         "80, 110, 150"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n哪些公司可能需要因与涉恐活动有关而没收110单位的金钱？",
@@ -10859,7 +10859,7 @@
         "b7, b8, b9",
         "b7, b9, b8, b4"
       ],
-      "answer": "无"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n哪些公司可能需要没收0单位的金钱？",
@@ -10869,7 +10869,7 @@
         "b8, b5, b6",
         "b7, b9, b8"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_353"
@@ -10895,7 +10895,7 @@
         "[1764, 9801, 49, 289, 0, 1936]",
         "[1764, 9801, 49, 17, 0, 44]"
       ],
-      "answer": "#"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n从列表 `[42, 66, 12, 8, 99, -7, 17, 0, 44]` 中挑选前面的偶数元素，直到遇到第一个非偶数为止，结果是什么？",
@@ -10905,7 +10905,7 @@
         "[42, 66, 12]",
         "[42, 66, 12, 8, 99, -7]"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_354"
@@ -10947,7 +10947,7 @@
         "Wakeel",
         "Kheeram"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n谁讨厌 Efaan？",
@@ -10991,7 +10991,7 @@
         "不是",
         "信息不足以得出结论"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n根据提供的信息可以断定哪项为真？",
@@ -11001,7 +11001,7 @@
         "黄泽喜欢玩国际象棋。",
         "黄泽不喜欢玩本地游戏。"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_357"
@@ -11033,7 +11033,7 @@
         "68度",
         "85度"
       ],
-      "answer": "D"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_359"
@@ -11049,7 +11049,7 @@
         "鳞片",
         "壳"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n猫cat1被描述为拥有什么特征？",
@@ -11075,7 +11075,7 @@
         "c,d",
         "d,e"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 2:\n如果e是一个人，那么哪个人是e的堂兄弟？",
@@ -11085,7 +11085,7 @@
         "f",
         "d"
       ],
-      "answer": "无"
+      "answer": "D"
     },
     {
       "question": "选择题 3:\n如果e是一个人，那么哪个人是e的堂兄弟？",
@@ -11095,7 +11095,7 @@
         "c",
         "f"
       ],
-      "answer": "\n"
+      "answer": "C"
     },
     {
       "question": "选择题 4:\n如果d是一个人，那么哪个人是d的堂兄弟？",
@@ -11105,7 +11105,7 @@
         "c",
         "f"
       ],
-      "answer": "无"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_361"
@@ -11121,7 +11121,7 @@
         "195厘米",
         "180厘米"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：**\n戴夫是否有鼻子？",
@@ -11195,7 +11195,7 @@
         "否",
         "是"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n动作类型是否与第三部电影共享至少2个类型？",
@@ -11235,7 +11235,7 @@
         "Anubhav",
         "Sanshit"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nShreya 是 Shrey 的姑姑吗？",
@@ -11243,7 +11243,7 @@
         "是",
         "否"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nAnshika 是她自己的表亲吗？",
@@ -11251,7 +11251,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\nShrey 是 Anubhav 的叔叔吗？",
@@ -11259,7 +11259,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_365"
@@ -11273,7 +11273,7 @@
         "可以",
         "不可以"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n能否乘坐火车从费城到华盛顿？",
@@ -11335,7 +11335,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n当 X = 9，Y = 6，Z = 4 时，以下哪项是正确的？",
@@ -11345,7 +11345,7 @@
         "不能确定",
         "无法计算"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n当 X = 9，Y = 4，Z = 0 时，以下哪项是正确的？",
@@ -11355,7 +11355,7 @@
         "不能确定",
         "无法计算"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n当 X = 8，Y = 6，Z = 4 时，以下哪项是正确的？",
@@ -11365,7 +11365,7 @@
         "不能确定",
         "无法计算"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_368"
@@ -11447,7 +11447,7 @@
         "海格",
         "达力"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n佩妮姨妈是否讨厌哈利？",
@@ -11469,7 +11469,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n给定的数字5是否在数字7和8之间？",
@@ -11477,7 +11477,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n给定的数字5是否在数字2和8之间？",
@@ -11493,7 +11493,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_373"
@@ -11519,7 +11519,7 @@
         "不确定",
         "以上都不对"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_374"
@@ -11535,7 +11535,7 @@
         "飞机",
         "无直达交通"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n从曼谷到拉格兰需要如何联系乘坐交通工具？",
@@ -11545,7 +11545,7 @@
         "飞机-汽车",
         "飞机-汽车-汽车"
       ],
-      "answer": "A"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_375"
@@ -11561,7 +11561,7 @@
         "[[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 16, 12], [13, 14, 15, 11]]",
         "[[6, 2, 3, 4], [5, 1, 7, 8], [9, 10, 16, 12], [13, 14, 15, 11]]"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_376"
@@ -11577,7 +11577,7 @@
         "snoc(snoc(snoc(nil, 3), 5), 4)",
         "snoc(snoc(nil, 3), 4, 5)"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2:\n给定一个普通列表[1,2,3]，如果我们添加元素4到列表的末尾，新的列表应该是什么？",
@@ -11597,7 +11597,7 @@
         "8",
         "11"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 4:\n同上所给二叀树结构，计算其中空节点的总数。",
@@ -11607,7 +11607,7 @@
         "3",
         "4"
       ],
-      "answer": "无"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_377"
@@ -11623,7 +11623,7 @@
         "被除数",
         "除数"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n若被除数为7，除数为2，整数除法的结果是多少？",
@@ -11633,7 +11633,7 @@
         "3.5",
         "4"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n若被除数为7，除数为7，余数是多少？",
@@ -11643,7 +11643,7 @@
         "0",
         "除数"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n若被除数为7，除数为1，余数是多少？",
@@ -11653,7 +11653,7 @@
         "7",
         "除数"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_378"
@@ -11691,7 +11691,7 @@
         "3",
         "4"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n数字 3 是否有 2 个除数？",
@@ -11715,7 +11715,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_380"
@@ -11731,7 +11731,7 @@
         "c",
         "d"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_381"
@@ -11757,7 +11757,7 @@
         "[2, 3]",
         "[]"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n如果给定数字是3，生成的列表是什么？",
@@ -11767,7 +11767,7 @@
         "[1, 2, 3]",
         "[2, 3, 4]"
       ],
-      "answer": "\n"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_382"
@@ -11823,7 +11823,7 @@
         "2个",
         "3个"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n塔斯马尼亚州（TAS）有几个邻接州？",
@@ -11849,7 +11849,7 @@
         "点f",
         "点c"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n从点a出发，可以直接或间接到达点c吗？",
@@ -11873,7 +11873,7 @@
         "手枪",
         "石头"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n凶案发生在哪个位置？",
@@ -11883,7 +11883,7 @@
         "公园",
         "超市"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n谁是这起罪案的受害者？",
@@ -11893,7 +11893,7 @@
         "Jetha",
         "Daya"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n绳子是凶案使用的武器吗？",
@@ -11901,7 +11901,7 @@
         "是",
         "否"
       ],
-      "answer": "#"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_387"
@@ -11917,7 +11917,7 @@
         "Alain",
         "Paul"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nLuc 有什么动机杀害 Jean？",
@@ -11927,7 +11927,7 @@
         "对 Jean 复仇",
         "施暴"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nLouis 有什么动机杀害 Jean？",
@@ -11937,7 +11937,7 @@
         "不可信任的人",
         "施暴"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nLuc 是杀害 Jean 的凶手吗？",
@@ -11945,7 +11945,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_388"
@@ -11971,7 +11971,7 @@
         "3",
         "4"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：**\n列表 [1, 2, 3] 的长度是多少？",
@@ -11981,7 +11981,7 @@
         "4",
         "5"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_389"
@@ -12043,7 +12043,7 @@
         "Jorge 和 Alvin",
         "Doug 和 Jorge"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\nGrumpy 订阅了哪些内容创建者的频道？",
@@ -12063,7 +12063,7 @@
         "Jorge 和 Doug",
         "Jorge 和 Alvin"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nAna 订阅了哪些内容创建者的频道？",
@@ -12073,7 +12073,7 @@
         "Shaun 和 Jorge",
         "Jorge 和 Alvin"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_392"
@@ -12099,7 +12099,7 @@
         "[2,1,3]",
         "[3,1,2]"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n列表[1,2,3,4]的长度是多少？",
@@ -12135,7 +12135,7 @@
         "edge8",
         "edge4"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n哪一条边与 edge4 垂直？",
@@ -12155,7 +12155,7 @@
         "node6",
         "以上都不对"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\nedge4 是否与自身垂直？",
@@ -12164,7 +12164,7 @@
         "否",
         "无法确定"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_394"
@@ -12180,7 +12180,7 @@
         "[2, 2, 2]",
         "[1, 6]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：**\n数字 9 的质数分解是什么？",
@@ -12232,7 +12232,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_396"
@@ -12248,7 +12248,7 @@
         "(4, 1)，(3, 2)，(2, 3)，(1, 4)",
         "(4, 2)，(3, 4)，(2, 3)，(1, 1)"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_397"
@@ -12264,7 +12264,7 @@
         "[2, 3, 4]",
         "[2, 3, 1]"
       ],
-      "answer": "#"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n从地点7到地点6可能的路径有哪些（不重复经过同一点）？",
@@ -12285,7 +12285,7 @@
         "[5, 4, 1, 2]",
         "所有上述答案"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n从地点2到地点4可能的路径有哪些（不重复经过同一点）？",
@@ -12295,7 +12295,7 @@
         "[2, 4, 3]",
         "[2, 4]"
       ],
-      "answer": "D"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_398"
@@ -12347,7 +12347,7 @@
         "3",
         "4"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_400"
@@ -12363,7 +12363,7 @@
         "Croitoru",
         "Gradinaru"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_401"
@@ -12379,7 +12379,7 @@
         "[1,1,2,2,3,3]",
         "[3,2,1,3,2,1]"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n根据结合规则2，如果输入列表为 `[a,b,c]` 和 `[1,2,3]`，输出结果是什么？",
@@ -12389,7 +12389,7 @@
         "[a1, b2, c3]",
         "[j(a, 1), j(b, 2), j(c, 3)]"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_402"
@@ -12405,7 +12405,7 @@
         "[a, b, a]",
         "[b, a, b]"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n通过递归函数 `trans_a_b_inductiv/2`，列表 [a, a, a] 被转换成什么？",
@@ -12415,7 +12415,7 @@
         "[a, b, a]",
         "[b, a, b]"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n列表 [a, a, a, a] 只包含元素 'a' 吗？",
@@ -12435,7 +12435,7 @@
         "无法确定",
         "部分包含"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_403"
@@ -12451,7 +12451,7 @@
         "1",
         "4"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n数字6是否为偶数？",
@@ -12467,7 +12467,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_404"
@@ -12493,7 +12493,7 @@
         "小苏",
         "赞父"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n谁是赞西佩的配偶？",
@@ -12503,7 +12503,7 @@
         "柏拉图",
         "亚里士多德"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\n赞父和苏格拉底的关系是什么？",
@@ -12513,7 +12513,7 @@
         "兄弟",
         "朋友"
       ],
-      "answer": "\n"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_405"
@@ -12527,7 +12527,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_406"
@@ -12575,7 +12575,7 @@
         "玉米10公斤，小麦50公斤，大麦40公斤",
         "玉米25公斤，小麦50公斤，大麦25公斤"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_409"
@@ -12617,7 +12617,7 @@
         "不确定",
         "以上都不对"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n节点a是否存在环路？",
@@ -12653,7 +12653,7 @@
         "可能是",
         "不确定"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_412"
@@ -12669,7 +12669,7 @@
         "Sedah",
         "Gibran"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\nSelvi 是哪些成员的阿姨？",
@@ -12689,7 +12689,7 @@
         "Gibran 和 Kaesang",
         "Bobby 和 Kahiyang"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n哪些成员是 Jokowi 的子女？",
@@ -12715,7 +12715,7 @@
         "Alicia",
         "Ginny"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_414"
@@ -12741,7 +12741,7 @@
         "5",
         "10"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_415"
@@ -12767,7 +12767,7 @@
         "乔希",
         "布里特尼"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n卡尔会嫉妒乔希吗？",
@@ -12775,7 +12775,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n乔希会嫉妒布里特尼吗？",
@@ -12783,7 +12783,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_416"
@@ -12799,7 +12799,7 @@
         "[[1, 'a'], [2, 'b'], [3, 'e']]",
         "[1, 2, 3, 'a', 'b', 'c', 'd', 'e']"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n给定一个列表，通过配对操作得到两个相同的列表使得配对后的列表为[[1, 1], [2, 2]]，这两个相同的列表是什么？",
@@ -12809,7 +12809,7 @@
         "[1, 2]",
         "[a, b]"
       ],
-      "answer": "A"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_417"
@@ -12825,7 +12825,7 @@
         "[1, 2, 3, 4, 5, 6]",
         "[5, 6, 1, 2, 3, 4]"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_418"
@@ -12841,7 +12841,7 @@
         "无人",
         "不确定"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\nDavid是否有犯罪行为？",
@@ -12849,7 +12849,7 @@
         "是",
         "否"
       ],
-      "answer": "无"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_419"
@@ -12903,7 +12903,7 @@
         "食物房间",
         "金宝贝房间"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n从强盗房间出发，能安全到达哪个地方？",
@@ -12929,7 +12929,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_421"
@@ -12945,7 +12945,7 @@
         "最底部物体是d",
         "最底部物体是e"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n物体e是否同时是最顶端和最底部的物体？",
@@ -12961,7 +12961,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n物体c是否可以同时是最顶端的物体，而桌子是最底部的物体？",
@@ -12969,7 +12969,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_422"
@@ -12995,7 +12995,7 @@
         "部分是",
         "无法判断"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_423"
@@ -13118,7 +13118,7 @@
         "11",
         "12"
       ],
-      "answer": "D"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_427"
@@ -13140,7 +13140,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\nRob 是否幸福？",
@@ -13148,7 +13148,7 @@
         "是",
         "否"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n谁是幸福的？",
@@ -13158,7 +13158,7 @@
         "Jim",
         "Eric"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_428"
@@ -13174,7 +13174,7 @@
         "[2,3,1]",
         "[1,3,2]"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n给定列表 [3,2,1]，排序后的结果是什么？",
@@ -13184,7 +13184,7 @@
         "[1,2,3]",
         "[1,3,2]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n给定列表 [5,27,84,132,4,38,92,1455,84,5]，排序后的结果是什么？",
@@ -13194,7 +13194,7 @@
         "[5,27,84,132,4,38,92,1455,84,5]",
         "[5,5,4,27,38,84,84,92,132,1455]"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n列表 [1,2,3] 是否已经按升序排序？",
@@ -13228,7 +13228,7 @@
         "鳎鱼",
         "A 和 C"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n如果主菜是鳎鱼且甜点是水果，那么前菜是什么？",
@@ -13248,7 +13248,7 @@
         "不确定",
         "需要更多信息"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_430"
@@ -13282,7 +13282,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n在给定的图中，是否存在从点 e 到点 c 的路径？",
@@ -13290,7 +13290,7 @@
         "是",
         "否"
       ],
-      "answer": "\n"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_431"
@@ -13304,7 +13304,7 @@
         "英国",
         "西班牙\nC.日本\nD. 法国"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_432"
@@ -13320,7 +13320,7 @@
         "节点1: 红色, 节点2: 红色, 节点3: 绿色",
         "节点1: 绿色, 节点2: 绿色, 节点3: 红色"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_433"
@@ -13346,7 +13346,7 @@
         "35",
         "40"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_434"
@@ -13379,7 +13379,7 @@
         "Spadina",
         "所有以上站点"
       ],
-      "answer": "A"
+      "answer": "E"
     },
     {
       "question": "选择题 2：\n从Bathurst站向东可以到达哪个站点？",
@@ -13400,7 +13400,7 @@
         "Spadina",
         "所有以上站点"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n是否存在从Bathurst站向西再回到Bathurst站的路线？",
@@ -13408,7 +13408,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_436"
@@ -13424,7 +13424,7 @@
         "Minic",
         "Aleksanar"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n谁会很开心？",
@@ -13434,7 +13434,7 @@
         "Aleksanar，Martin",
         "Martin，Nevena"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n谁被学校开除了？",
@@ -13444,7 +13444,7 @@
         "Minic",
         "Aleksanar"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nMartin 是否逃过了惩罚？",
@@ -13492,7 +13492,7 @@
         "Garfield 和 Opua",
         "Sylveator 和 Tweety"
       ],
-      "answer": "#"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n宠物吃猫粮吗？",
@@ -13502,7 +13502,7 @@
         "只有狗吃",
         "只有猫吃"
       ],
-      "answer": "无"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_439"
@@ -13518,7 +13518,7 @@
         "['e', 'd', 'c']",
         "['e', 'a', 'c']"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2:\n从点b到点c的直接路径是哪条？",
@@ -13538,7 +13538,7 @@
         "['d', 'c', 'a']",
         "['d', 'b', 'c', 'a']"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4:\n从点d到点b的所有可能路径是哪些？",
@@ -13548,7 +13548,7 @@
         "['d', 'c', 'b']",
         "['d', 'a', 'b']"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_440"
@@ -13616,7 +13616,7 @@
         "3",
         "4"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 2:\n第8个位置上的数字是多少？",
@@ -13626,7 +13626,7 @@
         "362880",
         "720"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3:\n是否正确，第2个位置上的数字是9？",
@@ -13634,7 +13634,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4:\n是否正确，第1个位置上的数字是7？",
@@ -13642,7 +13642,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_443"
@@ -13658,7 +13658,7 @@
         "c",
         "d"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n点 c 和哪个点是对角关系？",
@@ -13668,7 +13668,7 @@
         "f",
         "e"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n点 i 和哪个点是对角关系？",
@@ -13678,7 +13678,7 @@
         "f",
         "b"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n点 b 和哪个点是对角关系？",
@@ -13688,7 +13688,7 @@
         "e",
         "g"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_444"
@@ -13740,7 +13740,7 @@
         "c",
         "f"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：**\n\n`d` 的堂兄是谁？",
@@ -13750,7 +13750,7 @@
         "b",
         "a"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：**\n\n`f` 的堂兄弟有哪些？",
@@ -13770,7 +13770,7 @@
         "c",
         "f"
       ],
-      "answer": "A"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_446"
@@ -13802,7 +13802,7 @@
         "不确定",
         "无法判断"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n男人是 Bernd 的母亲吗？",
@@ -13822,7 +13822,7 @@
         "不确定",
         "无法判断"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\nOscar 是 Susi 的母亲吗？",
@@ -13884,7 +13884,7 @@
         "从0开始递减到-1的数字都将被处理",
         "立即结束"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_450"
@@ -13898,7 +13898,7 @@
         "能",
         "不能"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n数字8能被3整除吗？",
@@ -13906,7 +13906,7 @@
         "能",
         "不能"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n数字5能被3整除吗？",
@@ -13950,7 +13950,7 @@
         "21",
         "9"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n给定表达式 123 + 3 - 1 的结果是多少？",
@@ -13960,7 +13960,7 @@
         "127",
         "123"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_452"
@@ -13976,7 +13976,7 @@
         "0",
         "不存在此值"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n假设 \\( A = 0, B = 0, C = 2 \\)，解方程 \\( 0 \\times x^2 + 0 \\times x + 2 = 0 \\) 并用 \\( x = 2 \\) 判断该解是否正确，结果如何？",
@@ -13986,7 +13986,7 @@
         "无法确定",
         "方程没有解"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_453"
@@ -14026,7 +14026,7 @@
         "不确定",
         "以上都不对"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n3 的 8 次方是否等于 0？",
@@ -14036,7 +14036,7 @@
         "不确定",
         "以上都不对"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_455"
@@ -14052,7 +14052,7 @@
         "362880",
         "50400"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n8的阶乘是否等于8？",
@@ -14060,7 +14060,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n1的阶乘是否等于0？",
@@ -14068,7 +14068,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n5的阶乘是否等于1？",
@@ -14076,7 +14076,7 @@
         "是",
         "否"
       ],
-      "answer": "C"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_456"
@@ -14092,7 +14092,7 @@
         "[a, b, [c, d], e, f]",
         "[a, [b, [c, d], e], f]"
       ],
-      "answer": "A"
+      "answer": "D"
     },
     {
       "question": "选择题 2：\n如果我们要去掉列表 [a,a,a,a,b,c,c,a,a,d,e,e,e,e] 中的连续重复项，最终得到的列表是什么？",
@@ -14102,7 +14102,7 @@
         "[a, a, b, c, c, a, d, e, e, e]",
         "[b, c, a, d, e]"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_457"
@@ -14142,7 +14142,7 @@
         "3",
         "4"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n两个数字8和5的最大公约数是多少？",
@@ -14184,7 +14184,7 @@
         "有",
         "没有"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n当列表 [6,5,4] 和 [6,4,5] 进行比较时，它们是否有共同元素？",
@@ -14244,7 +14244,7 @@
         "不是，他们不认识",
         "只有在特定情况下"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_462"
@@ -14274,7 +14274,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n安娜是自己的后代吗？",
@@ -14298,7 +14298,7 @@
         "0",
         "2"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n数5的因子和是什么？",
@@ -14308,7 +14308,7 @@
         "1",
         "2"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n数6的因子和是什么？",
@@ -14318,7 +14318,7 @@
         "0",
         "3"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n哪个数的因子和是0？",
@@ -14328,7 +14328,7 @@
         "2",
         "6"
       ],
-      "answer": "#"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_464"
@@ -14344,7 +14344,7 @@
         "正在申请",
         "信息不明"
       ],
-      "answer": "D"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_465"
@@ -14358,7 +14358,7 @@
         "是",
         "不是"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n鸟类是否被描述为绿色的？",
@@ -14366,7 +14366,7 @@
         "是",
         "不是"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n动物普遍具备哪项属性？",
@@ -14376,7 +14376,7 @@
         "两条腿",
         "拥有皮肤"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_466"
@@ -14432,7 +14432,7 @@
         "Ravi",
         "没有人"
       ],
-      "answer": "*"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n谁是Ravi的情侣？",
@@ -14442,7 +14442,7 @@
         "Pamelo",
         "没有人"
       ],
-      "answer": "B"
+      "answer": "D"
     },
     {
       "question": "选择题 3：\n谁是John的情侣？",
@@ -14452,7 +14452,7 @@
         "Ravi",
         "没有人"
       ],
-      "answer": "D"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\n谁是Mary的情侣？",
@@ -14462,7 +14462,7 @@
         "Ravi",
         "没有人"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_468"
@@ -14488,7 +14488,7 @@
         "[1, 2, 3, 4]",
         "[2, 3]"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 4：\n在一个由键值对列表组成的大列表 [[key1,value1],['a',1],[3,4]] 中，键为 3 的值是不是 4？",
@@ -14496,7 +14496,7 @@
         "是",
         "否"
       ],
-      "answer": "无"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_469"
@@ -14512,7 +14512,7 @@
         "7",
         "14"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n数字7和8的最大公约数（GCD）是多少？",
@@ -14522,7 +14522,7 @@
         "4",
         "7"
       ],
-      "answer": "\n"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n数字6和2的最大公约数（GCD）是多少？",
@@ -14532,7 +14532,7 @@
         "6",
         "8"
       ],
-      "answer": "\n"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_470"
@@ -14546,7 +14546,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n在位置 42 发射火箭，是否可能成功摧毁三个连续的目标？",
@@ -14562,7 +14562,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n在位置 26 发射火箭，是否可能成功摧毁三个连续的目标？",
@@ -14629,7 +14629,7 @@
         "厨房里有问题，厨房有漏水",
         "外面没有水进来，厨房有漏水"
       ],
-      "answer": "E"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_474"
@@ -14685,7 +14685,7 @@
         "是",
         "否"
       ],
-      "answer": "A"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_476"
@@ -14714,7 +14714,7 @@
         "全果冰沙店",
         "冰沙盛宴店"
       ],
-      "answer": "A"
+      "answer": "C"
     }
   ],
   "id": "round1_test_data_478"
@@ -14730,7 +14730,7 @@
         "日本",
         "美国"
       ],
-      "answer": "C"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_479"
@@ -14746,7 +14746,7 @@
         "8",
         "12"
       ],
-      "answer": "#"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n一个数是0，另一个数是多少，使得它们的最大公因数是0？",
@@ -14756,7 +14756,7 @@
         "2",
         "3"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n如果两个数都是4，它们的最大公因数是多少？",
@@ -14766,7 +14766,7 @@
         "2",
         "4"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n如果两个数都是5，它们的最大公因数是多少？",
@@ -14792,7 +14792,7 @@
         "两个相异的实数解",
         "两个相等的实数解"
       ],
-      "answer": "A"
+      "answer": "C"
     },
     {
       "question": "选择题 2：\n判定方程 5x^2 + 9x + 8 = 0 的解的情况：",
@@ -14838,7 +14838,7 @@
         "路径为 [4, 5, 3]，长度为 3.2",
         "路径为 [4, 2, 3]，长度为 2"
       ],
-      "answer": "A"
+      "answer": "D"
     }
   ],
   "id": "round1_test_data_482"
@@ -14854,7 +14854,7 @@
         "120",
         "105"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n下列哪一项是 `sum(15, 15)` 的正确结果？",
@@ -14862,7 +14862,7 @@
         "True",
         "False"
       ],
-      "answer": "C"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\n下列哪一项是 `sum(15, 5)` 的正确结果？",
@@ -14870,7 +14870,7 @@
         "True",
         "False"
       ],
-      "answer": "#"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\n下列哪一项是 `sum(15, 6)` 的正确结果？",
@@ -14878,7 +14878,7 @@
         "True",
         "False"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_483"
@@ -14894,7 +14894,7 @@
         "Luke",
         "Jeff"
       ],
-      "answer": "D"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\nSue是否为“大老板”？",
@@ -14902,7 +14902,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 3：\nDave是否为“大老板”？",
@@ -14910,7 +14910,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     },
     {
       "question": "选择题 4：\nFred是否为“大老板”？",
@@ -14954,7 +14954,7 @@
         "Angelica",
         "无兄弟姐妹"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\nAngelica自己是自己的兄弟姐妹吗？",
@@ -14962,7 +14962,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_485"
@@ -15054,7 +15054,7 @@
         "是",
         "不是"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_488"
@@ -15070,7 +15070,7 @@
         "c",
         "无人"
       ],
-      "answer": "D"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n谁可能发热？",
@@ -15080,7 +15080,7 @@
         "c",
         "无人"
       ],
-      "answer": "A"
+      "answer": "B"
     },
     {
       "question": "选择题 3：\n谁可能患有 COVID-19？",
@@ -15098,7 +15098,7 @@
         "是",
         "否"
       ],
-      "answer": "B"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_489"
@@ -15114,7 +15114,7 @@
         "366",
         "367"
       ],
-      "answer": "C"
+      "answer": "B"
     },
     {
       "question": "选择题 2：\n给定年份8，这一年有多少天？",
@@ -15134,7 +15134,7 @@
         "366",
         "367"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 4：\n给定年份300，它是闰年吗？",
@@ -15188,7 +15188,7 @@
         "马比马小",
         "无法比较"
       ],
-      "answer": "D"
+      "answer": "B"
     }
   ],
   "id": "round1_test_data_491"
@@ -15266,7 +15266,7 @@
         "2019-01-13 数学, Eve；2019-01-17 绘画, John；2019-01-22 英语, John",
         "2019-01-13 数学, John；2019-01-22 英语, Vicktor；2019-01-17 绘画, Nick"
       ],
-      "answer": "无"
+      "answer": "A"
     },
     {
       "question": "选择题 2：\n哪些考试是 John 参加的？",
@@ -15346,7 +15346,7 @@
         "1. 将顶盘从左柱移动到中柱\n2. 将顶盘从左柱移动到右柱\n3. 将顶盘从中柱移动到左柱\n4. 将顶盘从中柱移动到右柱\n5. 将顶盘从左柱移动到中柱\n6. 将顶盘从右柱移动到左柱\n7. 将顶盘从中柱移动到右柱",
         "1. 将顶盘从左柱移动到右柱\n2. 将顶盘从中柱移动到左柱\n3. 将顶盘从左柱移动到中柱\n4. 将顶盘从左柱移动到右柱\n5. 将顶盘从中柱移动到右柱\n6. 将顶盘从左柱移动到右柱\n7. 将顶盘从中柱移动到左柱"
       ],
-      "answer": "C"
+      "answer": "A"
     }
   ],
   "id": "round1_test_data_497"
@@ -15388,7 +15388,7 @@
         "45",
         "81"
       ],
-      "answer": "B"
+      "answer": "C"
     },
     {
       "question": "选择题 3：\n对 \"sumn\" 函数的调用 sumn(3, 8) 会得到什么结果？",
@@ -15398,7 +15398,7 @@
         "6",
         "错误输入"
       ],
-      "answer": "C"
+      "answer": "D"
     },
     {
       "question": "选择题 4：\n对 \"sumn\" 函数的调用 sumn(3, 1) 会得到什么结果？",
